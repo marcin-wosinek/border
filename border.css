@@ -4,7 +4,9 @@
 }
 
 .two {
+  border: 1px red;
 }
 
 .three {
+  border: dotted 2px yellow;
 }
